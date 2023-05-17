@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215892727413",
+    "project_id": "shereheapp-fcf67",
+    "storage_bucket": "shereheapp-fcf67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215892727413:android:9eabdff5c9ba83997c8a3c",
+        "android_client_info": {
+          "package_name": "com.example.shereheapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215892727413-eh2jseq4oa4ppus0mf8dog86apprrhgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY2btkt3BIKnijb6-NgYb9X1ZUzyrj1qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215892727413-eh2jseq4oa4ppus0mf8dog86apprrhgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
